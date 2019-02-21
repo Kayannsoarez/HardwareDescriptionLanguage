@@ -1,0 +1,114 @@
+{C:/Users/lh03-m03/Desktop/Nova pasta/haha_tb.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/haha_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module haha_tb
+
+Top level modules:
+	haha_tb
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/or_gate_3_tb.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/or_gate_3_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module or_gate_3_tb
+
+Top level modules:
+	or_gate_3_tb
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/xor_gate.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/xor_gate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module xor_gate
+
+Top level modules:
+	xor_gate
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/haha.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/haha.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module haha
+
+Top level modules:
+	haha
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/and_gate.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/and_gate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/registrador_deslocamento.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/registrador_deslocamento.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module registrador_deslocamento
+
+Top level modules:
+	registrador_deslocamento
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/xor_gate_tb.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/xor_gate_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module xor_gate_tb
+
+Top level modules:
+	xor_gate_tb
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/try.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/try.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module try
+
+Top level modules:
+	try
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/and_gate_tb.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/and_gate_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module and_gate_tb
+
+Top level modules:
+	and_gate_tb
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/registrador_deslocamento_tb.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/registrador_deslocamento_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module registrador_deslocamento_tb
+
+Top level modules:
+	registrador_deslocamento_tb
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/or_gate_3.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/or_gate_3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module or_gate_3
+
+Top level modules:
+	or_gate_3
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/meio_somador_tb.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/meio_somador_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module meio_somador_tb
+
+Top level modules:
+	meio_somador_tb
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/mux_4x1_tb.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/mux_4x1_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_4x1_tb
+
+Top level modules:
+	mux_4x1_tb
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/try_tb.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/try_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module try_tb
+
+Top level modules:
+	try_tb
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/meio_somador.v} {1 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/meio_somador.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module meio_somador
+
+Top level modules:
+	meio_somador
+
+} {} {}} {C:/Users/lh03-m03/Desktop/Nova pasta/mux_4x1.v} {2 {vlog -work work -stats=none {C:/Users/lh03-m03/Desktop/Nova pasta/mux_4x1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_4x1
+** Warning: C:/Users/lh03-m03/Desktop/Nova pasta/mux_4x1.v(16): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	mux_4x1
+
+} {} {}}
